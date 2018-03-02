@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealGAMS",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Alex Rozgo",
+	"CreatedByURL": "http://rozgo.github.io",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealGAMS",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}

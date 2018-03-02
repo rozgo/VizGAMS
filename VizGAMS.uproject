@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1B93749A-260C-0C0D-0028-0224DDE0CD80}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VizGAMS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
